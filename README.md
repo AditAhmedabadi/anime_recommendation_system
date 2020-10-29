@@ -21,7 +21,7 @@ The features considered while creating this model are :
 2. Type  (OVA / TV / Movie etc.)
 3. Members (The number of members that are there on myanimelist.net of the particular show)
 4. Rating (Rating is from myanimelist.net which has a public rated system and the ratings there are exceptionally accurate)
-5 Episodes ( number of episodes in the show)
+5. Episodes ( number of episodes in the show)
 
 ------------------------------------------------
 
